@@ -22,7 +22,7 @@ Hey there! I’m Kuldeep Singh, a passionate engineering student and developer w
   
   <h2>💰 You can help me by Donating</h2>
   
-  <a href="https://buymeacoffee.com/vivrz">
+  <a href="https://buymeacoffee.com/kuldeep7249">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </div>
