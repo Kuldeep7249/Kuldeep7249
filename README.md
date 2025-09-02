@@ -3,7 +3,7 @@ Hey there! I’m Kuldeep Singh, a passionate engineering student and developer w
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kuldeepsingh_3536?igsh=ZTU4cjlzbTFheHNu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/kuldeep-singh-22429b246)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeep-singh-22429b246/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Kuldeep304057@gmail.com)
 
 # 💻 Tech Stack:
